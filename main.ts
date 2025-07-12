@@ -1,7 +1,7 @@
 import inquirer from "inquirer";
 
 const currency: any = {
-    USD: 1, // base currency
+    USD: 1, 
     EUR: 0.92,
     GPB: 0.79,
     INR: 83.28,
